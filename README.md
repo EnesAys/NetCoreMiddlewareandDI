@@ -1,2 +1,2 @@
-# NetCoreMiddlewareandDI
-Simple Asp .Net Core 3 Custom Middleware and Dependency Injection Example
+# NetCoreFluentValidation
+Asp .Net Core 3.1 Fluent validation example
